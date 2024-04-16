@@ -502,7 +502,7 @@ header .logo a {
 
 .contact {
   /* height: 80vh; */
-  padding: 2% 10% 0%;
+  padding: 1% 6% 0%;
   background-color: #fff;
 }
 
@@ -518,7 +518,7 @@ header .logo a {
 
 .contact-title h1 {
   font-size: 40px;
-  margin-top: 3.5rem;
+  margin-top: .2rem;
 }
 
 .contact-title p {
