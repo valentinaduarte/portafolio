@@ -526,8 +526,8 @@ header .logo a {
 }
 
 #contact .row {
-  margin: 30px;
-  padding: 0 10% 5rem;
+  margin: 45px;
+  padding: 0 7% 5rem;
   display: flex;
 }
 
@@ -535,7 +535,7 @@ header .logo a {
   float: left;
   padding: 10px;
   margin: 10px;
-  height: 320px;
+  height: 450px;
 }
 
 #contact .left {
